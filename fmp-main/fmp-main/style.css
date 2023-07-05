@@ -1,0 +1,23 @@
+body {
+    padding-top: 80px;
+  }
+  
+  .show-cart li {
+    display: flex;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .card-img-top {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+  }
+.btns{
+    color: black;
+    background-color: rgb(10, 145, 10);
+}
+.btns1{
+    background-color: rgba(247, 4, 4, 0.726);
+    color: white;
+}
